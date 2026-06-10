@@ -12,7 +12,6 @@ This isn't just another virtual keyboard demo. It combines four cutting-edge tec
 | Feature | Description |
 |---|---|
 | 🔢 **Full Keyboard** | Number row (0–9) + full QWERTY — everything you need |
-| 🤖 **AI Word Predictor** | Powered by **Gemini 1.5 Flash** (Google, free tier) — predicts your next word in real-time |
 | 🎙️ **Voice Input** | Speak a word or phrase — it gets typed instantly |
 | 🤟 **Hand Gestures** | Thumbs Up to clear · Peace sign to activate voice |
 
