@@ -71,13 +71,6 @@ if distance < 38:
     # Key press registered!
 ```
 
-```python
-prompt = f'Current text: "{text}"\nSuggest 3 next-word completions. Reply ONLY as: word1,word2,word3'
-response = gemini_model.generate_content(prompt)
-```
-
-Tap any predicted word to instantly accept it (replaces the current partial word).
-
 ### Gesture Controls
 
 | Gesture | Action |
